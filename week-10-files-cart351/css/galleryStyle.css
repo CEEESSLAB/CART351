@@ -1,0 +1,20 @@
+/* css for the initial form*/
+label{display:inline-block; width:30%;font-size:1vw; font-weight: bold; align: center; margin-top:1%;}
+textarea{vertical-align: top;width:50%;margin-left:2%;}
+input{margin-left:2%;width:50%;}
+fieldset{background-color:#3984d3;width:50%;color:#fff;font-family:arial;margin:0 auto;margin-top:2%;}
+select{width:50%;font-size:10pt;}
+#buttonS{margin:0;width:auto;font-size:1vw;}
+.sub{background-color:#9cc5f0;opacity:.85;padding:2%;}
+h3{padding:5px;text-align: center; width:50%;font-family:arial;color:#555;margin:0 auto; margin-top:5%;}
+#error{margin: 0 auto;color:white; width:50%;padding:1%;background:grey;}
+#mButton{margin: 0 auto;color:white; width:50%;padding:1%;background:white;display:none;}
+#mButton a{text-decoration: none; color:Black;}
+#mButton a:hover{background:red;text-decoration: none;color:white;}
+ 
+/* css for displaying the output*/
+#back{display:flex;flex-wrap: wrap;width:100%;padding-left:5%;}
+.outer{background-color:#0099ff;width:25%;margin:2%;}
+.content{background-color:#006bb3;width:100%;}
+.content p{color:white;padding:2%;background:#004d80;font-family:arial;}
+img{margin:2%;width:96%;}
